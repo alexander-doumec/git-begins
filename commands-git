@@ -2,4 +2,4 @@ git clone (URl github)
 git add
 git commit -n "message"
 git push
-git pull 
+git pull qui exécute git fetch 
