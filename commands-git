@@ -1,0 +1,4 @@
+git clone (URl github)
+git add
+git commit -n "message"
+git push
